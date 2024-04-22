@@ -1,12 +1,9 @@
-readme_content = """
-# Simple Interest Calculator
-
-This is a calculator that calculates simple interest given principal, annual rate of interest <span style="color:red">and</span> time period.
+A calculator that calculates simple interest given principal, annual rate of interest <span style="color:red">and</span> time period.
 
 ## Input:
 
 - `p`, principal amount
-- `t`, time period in years
+- `t`, time period <span style="color:red">in</span> years
 - `r`, annual rate of interest
 
 ## Output:
