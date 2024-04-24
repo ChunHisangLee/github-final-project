@@ -45,11 +45,12 @@ button {
 }
 
 .hero {
-    background-image: url('your-background-image-url.jpg');
+    background-image: url('/resource/easyTravel.webp');
     background-size: cover;
     color: white;
     text-align: center;
     padding: 50px 20px;
+    height: 1024px;
 }
 
 footer {
@@ -70,3 +71,17 @@ footer {
     font-size: 18px;
 }
 
+.logo-image {
+    width: 100px;
+    height: auto;
+}
+
+.search-icon {
+    width: 50px;
+    height: auto;
+}
+
+.book-now-image {
+    width: 50px;
+    height: auto;
+}
